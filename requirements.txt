@@ -1,0 +1,8 @@
+openai>=1.0.0
+gradio==4.44.1
+huggingface-hub==0.19.4
+python-dotenv>=1.0.0
+pytest>=7.0
+# Optional dependencies
+# tiktoken>=0.4.0
+# requests>=2.0
